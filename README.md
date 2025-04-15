@@ -9,7 +9,7 @@ This project performs **sentiment analysis** on Twitter data using Natural Langu
 
 - Scraped and preprocessed a dataset of tweets.
 - Performed tokenization, stopword removal, stemming, and vectorization using **TF-IDF**.
-- Trained and evaluated multiple machine learning classifiers including **Logistic Regression**, **Naive Bayes**, and **Support Vector Machines (SVM)**.
+- Trained and evaluated multiple machine learning classifiers including **Naive Bayes**, and **Support Vector Machines (SVM)**.
 - Visualized results using confusion matrices and accuracy scores.
 - Classified unseen tweets and displayed sentiment predictions.
 
